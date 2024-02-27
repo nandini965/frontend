@@ -3,4 +3,3 @@
 env.component="frontend"
 env.schema_dir=''
 nginx()
-
